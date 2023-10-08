@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T13:17:51.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ndTPmuxJzlxFDucBDJ8-" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T13:19:19.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="FsCDH8c6q95pmqxJ3aUA" version="22.0.4" type="github">
   <diagram name="Page-1" id="Cy3Li9NbhKqjfHNNwpPI">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,16 +143,16 @@
           <mxGeometry x="520" y="100" width="130" height="550" as="geometry" />
         </mxCell>
         <mxCell id="53QyqWOA8lbKs4iVCChf-53" value="Web Server SG-C" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="53QyqWOA8lbKs4iVCChf-47" vertex="1">
-          <mxGeometry x="6" y="410" width="124" height="130" as="geometry" />
+          <mxGeometry x="20" y="410" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="53QyqWOA8lbKs4iVCChf-48" value="Web Server SG-A" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="53QyqWOA8lbKs4iVCChf-47" vertex="1">
-          <mxGeometry x="6" y="50.25" width="124" height="130" as="geometry" />
+          <mxGeometry x="20" y="50.25" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="53QyqWOA8lbKs4iVCChf-49" value="Web Server" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;" parent="53QyqWOA8lbKs4iVCChf-47" vertex="1">
           <mxGeometry x="50" y="89.75" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="53QyqWOA8lbKs4iVCChf-50" value="Web Server SG-B" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="53QyqWOA8lbKs4iVCChf-47" vertex="1">
-          <mxGeometry x="6" y="226.5" width="124" height="140" as="geometry" />
+          <mxGeometry x="20" y="226.5" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="53QyqWOA8lbKs4iVCChf-51" value="Web Server" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;" parent="53QyqWOA8lbKs4iVCChf-47" vertex="1">
           <mxGeometry x="50" y="280" width="61" height="61" as="geometry" />
