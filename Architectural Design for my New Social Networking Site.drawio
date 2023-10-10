@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T02:47:11.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yi8k8Z2cYjFh2WOfBhkt" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-10T02:48:00.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GBqzhDXimjv3t-yo4pef" version="22.0.4" type="github" pages="2">
   <diagram name="Page-1" id="Cy3Li9NbhKqjfHNNwpPI">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -419,7 +419,7 @@
           <mxGeometry x="610" y="-101.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rs5WKnLIzFrVUU9SS_Co-63" value="EC2 Instance &lt;br&gt;Connect Endpoint Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="78" height="78" as="geometry" />
+          <mxGeometry x="520" y="240" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="rs5WKnLIzFrVUU9SS_Co-17" value="AWS Lambda Function&lt;br&gt;For Video Converting" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
           <mxGeometry x="-200" y="200" width="78" height="78" as="geometry" />
