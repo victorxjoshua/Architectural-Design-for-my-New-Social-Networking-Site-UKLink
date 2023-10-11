@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T13:00:02.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="668H4Qz9nHS6stoEzu6j" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-11T13:01:01.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3H4EMEF973UDgCBLUO2h" version="22.0.4" type="github" pages="4">
   <diagram name="Page-1" id="Cy3Li9NbhKqjfHNNwpPI">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -884,6 +884,9 @@
         <mxCell id="PjbvaBg1cLr1SRItmtEV-3" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="kT_Jtn9eVasE6nRMBwru-3">
           <mxGeometry x="26" y="62" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="6FAZzBzPwBV1VywmvrqQ-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_access_control_list;" vertex="1" parent="kT_Jtn9eVasE6nRMBwru-3">
+          <mxGeometry x="-14" y="70" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="kT_Jtn9eVasE6nRMBwru-5" value="Lambda Private Subnet B" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="670.5" width="130" height="140" as="geometry" />
         </mxCell>
@@ -910,6 +913,9 @@
         </mxCell>
         <mxCell id="TgvjSD-5dH5KRCQeJzok-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="kT_Jtn9eVasE6nRMBwru-14">
           <mxGeometry x="26" y="51.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6FAZzBzPwBV1VywmvrqQ-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_access_control_list;" vertex="1" parent="kT_Jtn9eVasE6nRMBwru-14">
+          <mxGeometry x="-20" y="29.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kT_Jtn9eVasE6nRMBwru-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kT_Jtn9eVasE6nRMBwru-7" target="kT_Jtn9eVasE6nRMBwru-27">
           <mxGeometry relative="1" as="geometry">
