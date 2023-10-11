@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T19:15:08.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CCuJA8huxi0PYDHy5uo7" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-11T19:20:53.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Lic0O3IOmuIULYBSZYaE" version="22.0.4" type="github" pages="4">
   <diagram name="Page-1" id="Cy3Li9NbhKqjfHNNwpPI">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,12 +528,6 @@
         <mxCell id="-nfQrXpMW4FJA52QKadW-3" value="EC2 Connect Endpoint" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_network_interface;" vertex="1" parent="TMITf_oyB4X4NnQS6HZf-17">
           <mxGeometry x="640" y="130" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="o12bDP0ksi1S1v8ggJpZ-10" value="Availability Zone 1" style="text;strokeColor=#005700;align=center;fillColor=#008a00;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="TMITf_oyB4X4NnQS6HZf-17">
-          <mxGeometry x="760" y="110" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="o12bDP0ksi1S1v8ggJpZ-8" value="Availability Zone 2" style="text;strokeColor=#2D7600;align=center;fillColor=#008A00;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;direction=west;" vertex="1" parent="TMITf_oyB4X4NnQS6HZf-17">
-          <mxGeometry x="960" y="110" width="60" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="o12bDP0ksi1S1v8ggJpZ-2" value="NACL" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;dashed=1;fontStyle=0;" vertex="1" parent="TMITf_oyB4X4NnQS6HZf-17">
           <mxGeometry x="1040" y="390" width="40" height="100" as="geometry" />
         </mxCell>
@@ -587,12 +581,6 @@
         <mxCell id="7uur_zeNzCjpffg645_F-83" value="Amazon Translate" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.translate;" vertex="1" parent="TMITf_oyB4X4NnQS6HZf-17">
           <mxGeometry x="370" y="142" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7uur_zeNzCjpffg645_F-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o12bDP0ksi1S1v8ggJpZ-10" target="H-xE9jQPomdomHhWqmm9-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7uur_zeNzCjpffg645_F-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o12bDP0ksi1S1v8ggJpZ-8" target="H-xE9jQPomdomHhWqmm9-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rs5WKnLIzFrVUU9SS_Co-15" value="Amazon Elastic Load Balancing" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_load_balancing;direction=south;" parent="1" vertex="1">
           <mxGeometry x="350" y="20" width="68" height="68" as="geometry" />
         </mxCell>
@@ -623,6 +611,12 @@
         </mxCell>
         <mxCell id="7uur_zeNzCjpffg645_F-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7uur_zeNzCjpffg645_F-83" target="rs5WKnLIzFrVUU9SS_Co-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7uur_zeNzCjpffg645_F-87" value="Availability Zone 1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="250" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="7uur_zeNzCjpffg645_F-88" value="Availability Zone 2" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="200" height="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
