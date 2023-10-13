@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T14:24:13.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ivmFKQCGypKeOcBDjn2h" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-13T14:41:29.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g-du1jdBzKV7vS792rkJ" version="22.0.4" type="github" pages="3">
   <diagram id="0841PgJ105X04JAaVN4H" name="Standard Architecture">
     <mxGraphModel dx="2603" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1204,14 +1204,6 @@
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-115" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Amazon&lt;br&gt;Translate&lt;/font&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=none;strokeColor=#01A88D;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.translate;" vertex="1" parent="iyyTQk4u-1h4Ml7tyOpl-94">
           <mxGeometry x="370" y="142" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#8C4FFF;" edge="1" parent="iyyTQk4u-1h4Ml7tyOpl-94" source="iyyTQk4u-1h4Ml7tyOpl-128" target="iyyTQk4u-1h4Ml7tyOpl-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="340" />
-              <mxPoint x="740" y="449" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-128" value="&lt;b&gt;&lt;font color=&quot;#ed7100&quot;&gt;Linux EC2 Instance&lt;/font&gt;&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="iyyTQk4u-1h4Ml7tyOpl-94">
           <mxGeometry x="791" y="308.22" width="48" height="48" as="geometry" />
         </mxCell>
@@ -1324,7 +1316,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-123" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Availability Zone 1&lt;/font&gt;&lt;/b&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="20" width="270" height="700" as="geometry" />
+          <mxGeometry x="120" y="20" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Availability Zone 2&lt;/font&gt;&lt;/b&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="20" width="270" height="700" as="geometry" />
@@ -1333,6 +1325,9 @@
           <mxGeometry x="470" y="-150" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-187" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8C4FFF;" edge="1" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-128" target="iyyTQk4u-1h4Ml7tyOpl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-200" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#8C4FFF;" edge="1" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-15" target="iyyTQk4u-1h4Ml7tyOpl-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
