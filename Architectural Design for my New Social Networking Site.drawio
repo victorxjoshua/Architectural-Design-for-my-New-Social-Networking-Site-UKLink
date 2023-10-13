@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T15:19:49.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nHx0wgWeVeUQdSHGwnq_" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-13T15:21:00.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gxDMZEsCJNRWiuY-XS5g" version="22.0.4" type="github" pages="3">
   <diagram id="0841PgJ105X04JAaVN4H" name="Standard Architecture">
     <mxGraphModel dx="2603" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -900,9 +900,9 @@
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-15" value="" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iyyTQk4u-1h4Ml7tyOpl-14">
           <mxGeometry y="40" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#8C4FFF;exitX=1;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="1" target="iyyTQk4u-1h4Ml7tyOpl-27" source="iyyTQk4u-1h4Ml7tyOpl-131">
+        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#8C4FFF;exitX=1;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-131">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="720" as="targetPoint" />
+            <mxPoint x="550" y="570" as="targetPoint" />
             <mxPoint x="520" y="406" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="560" y="403" />
