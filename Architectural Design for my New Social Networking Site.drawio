@@ -850,7 +850,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WrI3F7dl926iNIntgbOy" name="USBI Case Management System Architecture">
-    <mxGraphModel dx="3846" dy="2391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2525" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -933,13 +933,16 @@
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-30" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8C4FFF;" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-31" target="iyyTQk4u-1h4Ml7tyOpl-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-31" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Raw Files Videos &lt;br&gt;&amp;amp; Image Bucket&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=none;strokeColor=#7AA116;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;rounded=1;" parent="1" vertex="1">
+        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-31" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Raw Files&lt;br&gt;&amp;amp; Image Bucket&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=none;strokeColor=#7AA116;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-78" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-32" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8C4FFF;" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-33" target="iyyTQk4u-1h4Ml7tyOpl-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-33" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Media Files&lt;br&gt;Video &amp;amp; Image&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4EzDvjgng5F06uniJcwU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-33" target="iyyTQk4u-1h4Ml7tyOpl-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyyTQk4u-1h4Ml7tyOpl-33" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Media Files&lt;br&gt;Upload&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="205.31" width="60" height="73.83" as="geometry" />
         </mxCell>
         <mxCell id="iyyTQk4u-1h4Ml7tyOpl-34" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8C4FFF;" parent="1" source="iyyTQk4u-1h4Ml7tyOpl-36" target="iyyTQk4u-1h4Ml7tyOpl-43" edge="1">
